@@ -24,7 +24,7 @@
   "post-processors": [
     {
       "type": "vagrant",
-      "output": "/Users/yosh/vagrant/packer/packer-centos-6.7.box",
+      "output": "packer-centos-6.7.box",
       "keep_input_artifact": false
     }
   ]
